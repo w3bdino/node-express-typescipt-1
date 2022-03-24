@@ -1,4 +1,4 @@
-# Getting Started with Node Api
+# Node API
 
 This project was bootstrapped with NodeJS, Express, Typescript, Eslint, Prettier
 
